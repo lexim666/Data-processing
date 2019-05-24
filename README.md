@@ -1,2 +1,2 @@
 # Data-processing
-Lecturer: Borodin
+Lecturer: Borodin A.M.
